@@ -1,16 +1,4 @@
-### Welcome to PEEPO WORSHIPPING PAGE
-
-
-FIRST OF ALL, PEEPO IS THE BESTEST AND THE GREATEST FROG TO EVER 
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-```
+cp path/to/desktop/peepo ridin.jpg/assets
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
