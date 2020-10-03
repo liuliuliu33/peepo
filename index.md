@@ -1,23 +1,7 @@
 ### Welcome to PEEPO WORSHIPPING PAGE
 
 
-FIRST OF ALL, PEEPO IS THE BESTEST AND THE GREATEST FROG TO EVER 
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuliuliu33/peepo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+FIRST OF ALL, PEEPO IS THE BESTEST AND THE GREATEST FROG TO EVER:
+![Image](https://i.kym-cdn.com/entries/icons/facebook/000/035/310/Peepo_Animation_Banner.jpg)
+SECOND OF ALL:
+![Image](https://drive.google.com/file/d/1GPFYDsAuqrpUKiIPMTfT1l2tsRDSWe9M/view?usp=sharing)
